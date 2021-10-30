@@ -82,3 +82,7 @@ button:hover{
     transform: scale(1.05);
     background-color: blue;
 }
+.score1{
+    color: red;
+    font-size: 30px;
+}
